@@ -1,5 +1,5 @@
-#### Desafio Netflix Clone
+# Desafio Netflix Clone
 
-# Conteudo
+ ## Conteudo
 - Criação de interface completa
 - Criação do caroseul de filmes com Jquery
