@@ -1,4 +1,4 @@
-# Desafio: Netflix Clone ⏯️
+# Projeto: Netflix Clone ⏯️
 
  ## Conteudo:
 - Desafio Digital innovation one ✅
